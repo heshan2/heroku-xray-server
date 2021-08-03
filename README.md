@@ -1,7 +1,22 @@
-# heroku-xray-server
+# xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ
+
+⭕ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
+
+⭕ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ
+
+# ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+
+⭕ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ
+
+⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️
+
+⭕ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ 
+  
+
+[ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
+
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-Click the icon above to deploy.
 
 Default Protocol : vless
 
