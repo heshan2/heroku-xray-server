@@ -1,33 +1,51 @@
-# xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ
+# xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ.
 
-⭕ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
+⭕ ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
 
-⭕ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ
+⭕ ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ.
 
-# ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+# ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ.
 
-⭕ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ
+⭕ ꜰɪʀꜱᴛ ꜱɪɢɴ ᴏʀ ꜱɪɢɴᴜᴘ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ɢɪᴛʜᴜʙ.
 
-⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️
+⭕ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
 
-⭕ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ 
-  
+- 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-[ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
+<p><a href="https://github.com/heshan2/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
+Click on fork and star buttons like this image☝️.
+
+_____________________
+- ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
+_____________________
+
+⭕ ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ.
+   - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-Default Protocol : vless
+⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
+   - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
+   - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
 
-Default UUID: 36cfc3de-ecfd-4752-ae6f-8f0f92035143
+⭕ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ.https://www.uuidgenerator.net/
 
-Address: appname.herokuapp.com
+# ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ
 
-Port: 443
+- ᴅᴇꜰᴀᴜʟᴛ ᴘʀᴏᴛᴏᴄᴏʟ : ᴠʟᴇꜱꜱ
 
-Path: keep this empty
+- ᴜᴜɪᴅ: *ʏᴏᴜ ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
 
-Network: ws
+- ᴀᴅᴅʀᴇꜱꜱ: ʏᴏᴜʀ ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
 
-Credit : https://github.com/teddysun/across
+- ᴘᴏʀᴛ: 443
+
+- ᴘᴀᴛʜ: ᴋᴇᴇᴘ ᴛʜɪꜱ ᴇᴍᴘᴛʏ ᴏʀ /
+
+- ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
+
+### CREDIT
+Thanks To:
+- [teddysun](https://github.com/teddysun) For Main Repo
+- [iamtrazy](https://github.com/iamtrazy) For Heroku Deployable Repo
