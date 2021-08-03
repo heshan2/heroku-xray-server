@@ -1,7 +1,6 @@
 # heroku-xray-server
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/heshan2/heroku-xray-server)
-
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 Click the icon above to deploy.
 
 Default Protocol : vless
