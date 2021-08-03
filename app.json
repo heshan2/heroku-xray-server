@@ -8,6 +8,6 @@
             "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
         }
     },
-    "repository": "https://github.com/heshan2/herku-xray-server",
+    "repository": "https://github.com/heshan2/heroku-xray-server",
     "stack": "container"
 }
