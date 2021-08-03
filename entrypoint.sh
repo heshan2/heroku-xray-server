@@ -10,7 +10,7 @@ cat << EOF > /etc/xray/config.json
       "port": $PORT,
       "protocol": "vless",
       "settings": {
-        "decryption": "none",
+        "decryption": "aes-128-gcm",
         "clients": [
           {
             "id": "$UUID"
